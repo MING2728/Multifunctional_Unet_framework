@@ -1,0 +1,10 @@
+# PyTorch (请根据 CUDA 版本自行安装，详见 https://pytorch.org/)
+# CPU:  pip install torch torchvision
+# CUDA: pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
+
+torch>=1.10
+torchvision>=0.9.0
+numpy>=1.21
+Pillow>=8.0
+matplotlib>=3.3
+opencv-python>=4.5
